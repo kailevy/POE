@@ -1,3 +1,6 @@
 [submodule "poelab1"]
 	path = poelab1
 	url = https://github.com/kailevy/poelab1
+[submodule "poelab2"]
+	path = poelab2
+	url = https://github.com/kailevy/poelab2
