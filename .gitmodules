@@ -7,3 +7,6 @@
 [submodule "poelab3"]
 	path = poelab3
 	url = https://github.com/kailevy/poelab3
+[submodule "polar_printing_press"]
+	path = polar_printing_press
+	url = https://github.com/kailevy/polar_printing_press.git
